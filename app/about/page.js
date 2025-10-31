@@ -12,7 +12,7 @@ export default function AboutPage() {
         </p>
 
         <p className="text-lg mb-4">
-          Whether you're sharing on social media, sending in an email, or just want to make things look cleaner, BitLin makes it easier. It’s fast, minimal, and private—your data stays yours.
+          Whether you&apos;re sharing on social media, sending in an email, or just want to make things look cleaner, BitLin makes it easier. It&apos;s fast, minimal, and private—your data stays yours.
         </p>
 
         <h2 className="text-2xl font-semibold mt-8 mb-2">🚀 Technologies Used</h2>
